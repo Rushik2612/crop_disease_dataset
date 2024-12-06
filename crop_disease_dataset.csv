@@ -1,201 +1,113 @@
-Symptoms,Crop,Temperature (Â°C),Humidity (%),Rainfall (mm),Disease
-"leaves with yellow patches, sticky substance on leaves",Wheat,23.8,55.1,50.7,Fungal Wilt
-white powdery coating on leaves,Wheat,31.3,85.7,107.1,Powdery Mildew
-"leaves with yellow patches, sticky substance on leaves",Wheat,17.8,89.7,119.9,Brown Spot
-"leaves with yellow patches, sticky substance on leaves",Chickpea,17.7,79.1,213.9,Black Mold
-"yellowing of leaves, roots turning mushy",Chickpea,22.9,60.9,14.5,Leaf Spot
-"leaves with yellow patches, sticky substance on leaves",Lettuce,22.9,62,84.2,Thrips Damage
-"stems turning brown, leaf yellowing",Cotton,20.1,76.6,100.3,Damping Off
-"black mold on leaves, stems, and pods",Rice,17.2,57.2,133,Root Rot
-"leaves with yellow patches, sticky substance on leaves",Onion,26.7,85.7,220.6,Bacterial Blight
-"browning of leaf edges, stem rotting",Tomato,32.2,57.7,151,Damping Off
-"stems turning brown, leaf yellowing",Onion,17.4,76.4,114.7,Leaf Spot
-"browning of leaf edges, stem rotting",Wheat,20.1,55.2,158.2,Thrips Damage
-"leaves curling, silvery-white appearance",Rice,24.2,60.1,140.9,Aphid Infestation
-"browning of leaf edges, stem rotting",Corn,19.6,72.3,137.2,Brown Spot
-"black mold on leaves, stems, and pods",Chickpea,22.5,78.4,289.7,Brown Spot
-"yellowing of leaves, roots turning mushy",Corn,24.8,69.8,12.3,Root Rot
-white powdery coating on leaves,Chickpea,30.4,71.4,243.3,Thrips Damage
-"leaves with yellow patches, sticky substance on leaves",Chickpea,16.8,65.1,6.9,Black Mold
-"stems turning brown, leaf yellowing",Cotton,24.9,79.7,197.1,Leaf Spot
-white powdery coating on leaves,Cotton,25.7,51.7,238.3,Aphid Infestation
-"stems turning brown, leaf yellowing",Rice,32.3,73.9,101.1,Brown Spot
-"yellow spots on leaves, leaf curling, stunted growth",Cotton,32.6,86.6,11.4,Fungal Wilt
-"leaves curling, silvery-white appearance",Wheat,20,75,221.4,Bacterial Blight
-"leaves with yellow patches, sticky substance on leaves",Wheat,28.2,83.4,202.3,Black Mold
-"brown lesions on leaves, dried foliage",Chickpea,17.1,84.9,202,Damping Off
-"brown lesions on leaves, dried foliage",Tomato,32.2,69.2,209.8,Brown Spot
-"leaves curling, silvery-white appearance",Potato,19.2,50.2,91.4,Thrips Damage
-"yellowing of leaves, roots turning mushy",Cotton,18,73.2,102.2,Leaf Spot
-"leaves curling, silvery-white appearance",Cotton,16.9,52.5,48.8,Thrips Damage
-"yellow spots on leaves, leaf curling, stunted growth",Tomato,25.8,74.7,160.5,Black Mold
-"browning of leaf edges, stem rotting",Rice,18.7,56.9,173.1,Fungal Wilt
-"stems turning brown, leaf yellowing",Cotton,24.1,52,118.2,Bacterial Blight
-"leaves curling, silvery-white appearance",Tomato,25.6,71,163.2,Fungal Wilt
-"stems turning brown, leaf yellowing",Chickpea,31.8,85.5,254.1,Aphid Infestation
-"dark spots, leaves wilting",Onion,20.7,72.5,221.7,Root Rot
-"dark spots, leaves wilting",Chickpea,18.2,85,210.4,Root Rot
-"yellowing of leaves, roots turning mushy",Cotton,28.8,59.8,15.1,Brown Spot
-"black mold on leaves, stems, and pods",Wheat,28.3,69.7,44.4,Fungal Wilt
-"leaves with yellow patches, sticky substance on leaves",Rice,23.7,63.1,55.8,Black Mold
-"leaves curling, silvery-white appearance",Potato,29.3,85.6,221.4,Black Mold
-"black mold on leaves, stems, and pods",Cotton,18.1,51.2,77.7,Bacterial Blight
-"leaves curling, silvery-white appearance",Lettuce,26.5,77.7,45.8,Damping Off
-"leaves with yellow patches, sticky substance on leaves",Onion,21.5,55.2,72.4,Root Rot
-"dark spots, leaves wilting",Chickpea,24.8,60.5,85.7,Bacterial Blight
-"brown lesions on leaves, dried foliage",Rice,16.7,89.8,215.3,Fungal Wilt
-"brown lesions on leaves, dried foliage",Cotton,26.8,84.8,47.2,Thrips Damage
-"stems turning brown, leaf yellowing",Corn,31.4,56.2,294.6,Bacterial Blight
-"yellow spots on leaves, leaf curling, stunted growth",Lettuce,18.2,87.2,261.1,Powdery Mildew
-"dark spots, leaves wilting",Soybean,34.4,81.7,224,Bacterial Blight
-"brown lesions on leaves, dried foliage",Rice,19.3,63.8,18.7,Powdery Mildew
-"brown lesions on leaves, dried foliage",Chickpea,20.4,67,181.5,Black Mold
-"yellow spots on leaves, leaf curling, stunted growth",Onion,18,58.8,229.2,Powdery Mildew
-"yellowing of leaves, roots turning mushy",Lettuce,16.6,83.9,161.4,Root Rot
-"leaves with yellow patches, sticky substance on leaves",Potato,34.2,52.7,75,Brown Spot
-"brown lesions on leaves, dried foliage",Chickpea,34.1,82.1,63.4,Black Mold
-"brown lesions on leaves, dried foliage",Tomato,17.4,79.9,119.8,Damping Off
-"browning of leaf edges, stem rotting",Potato,33.8,81.8,140.6,Aphid Infestation
-"brown lesions on leaves, dried foliage",Corn,27.6,75.6,140.8,Leaf Spot
-"yellowing of leaves, roots turning mushy",Chickpea,33.6,69.5,283.9,Aphid Infestation
-"leaves curling, silvery-white appearance",Tomato,18,67.9,174.6,Fungal Wilt
-"yellowing of leaves, roots turning mushy",Onion,28.8,87.2,142.9,Bacterial Blight
-"leaves curling, silvery-white appearance",Cotton,24,89.8,176.2,Leaf Spot
-"browning of leaf edges, stem rotting",Lettuce,28.8,54.4,135.2,Bacterial Blight
-"browning of leaf edges, stem rotting",Wheat,27.7,58.1,160.9,Fungal Wilt
-"yellowing of leaves, roots turning mushy",Onion,32.2,50.1,242.2,Leaf Spot
-"leaves curling, silvery-white appearance",Corn,21.6,85.9,45.5,Bacterial Blight
-"brown lesions on leaves, dried foliage",Potato,21.8,71.6,19.6,Leaf Spot
-"brown lesions on leaves, dried foliage",Cotton,23.3,62,288.1,Aphid Infestation
-"stems turning brown, leaf yellowing",Corn,31.2,84.3,266.6,Aphid Infestation
-"brown lesions on leaves, dried foliage",Soybean,25.7,52.3,260.7,Damping Off
-"leaves with yellow patches, sticky substance on leaves",Rice,30.9,87.4,183.1,Powdery Mildew
-"yellow spots on leaves, leaf curling, stunted growth",Cotton,26.9,84.7,254.7,Brown Spot
-"yellow spots on leaves, leaf curling, stunted growth",Cotton,29.8,79.3,239.3,Damping Off
-"leaves curling, silvery-white appearance",Rice,31.2,81.7,250.8,Powdery Mildew
-"black mold on leaves, stems, and pods",Rice,15.7,80.5,152.7,Root Rot
-white powdery coating on leaves,Soybean,31.2,63.2,171,Brown Spot
-"leaves with yellow patches, sticky substance on leaves",Wheat,33,65.1,62.7,Damping Off
-"leaves curling, silvery-white appearance",Rice,30.6,67.3,156.2,Damping Off
-white powdery coating on leaves,Wheat,28.3,59,187.2,Root Rot
-"leaves curling, silvery-white appearance",Wheat,22.2,67.6,157.4,Bacterial Blight
-white powdery coating on leaves,Wheat,23.6,64.5,231.8,Damping Off
-"yellowing of leaves, roots turning mushy",Onion,20.6,76.9,178.7,Thrips Damage
-"stems turning brown, leaf yellowing",Soybean,19,69,80.7,Damping Off
-"leaves with yellow patches, sticky substance on leaves",Rice,32.9,55.1,286.1,Aphid Infestation
-"yellow spots on leaves, leaf curling, stunted growth",Soybean,18.7,65.7,242.3,Aphid Infestation
-"yellow spots on leaves, leaf curling, stunted growth",Chickpea,24.9,77.2,181.2,Black Mold
-"leaves curling, silvery-white appearance",Cotton,25.3,74.2,215.3,Root Rot
-white powdery coating on leaves,Wheat,32.7,82.8,42.4,Aphid Infestation
-"yellow spots on leaves, leaf curling, stunted growth",Rice,18.7,83.3,298.3,Fungal Wilt
-"browning of leaf edges, stem rotting",Cotton,25.4,88.2,6,Aphid Infestation
-"browning of leaf edges, stem rotting",Soybean,32.7,66.5,112.9,Bacterial Blight
-"leaves with yellow patches, sticky substance on leaves",Tomato,21.6,59.4,97.2,Fungal Wilt
-"leaves curling, silvery-white appearance",Rice,24.7,50.6,167.8,Brown Spot
-"browning of leaf edges, stem rotting",Wheat,25.7,85.6,27.4,Bacterial Blight
-white powdery coating on leaves,Onion,16.9,74.8,164.4,Brown Spot
-"leaves curling, silvery-white appearance",Cotton,17.9,61.7,290.1,Powdery Mildew
-"browning of leaf edges, stem rotting",Soybean,33.7,57.1,52.5,Fungal Wilt
-"brown lesions on leaves, dried foliage",Wheat,29,80.2,116.2,Leaf Spot
-"leaves with yellow patches, sticky substance on leaves",Corn,28,76.4,11,Black Mold
-"stems turning brown, leaf yellowing",Corn,23.1,76.4,87.5,Brown Spot
-white powdery coating on leaves,Rice,15.6,81.2,159.9,Bacterial Blight
-"dark spots, leaves wilting",Chickpea,19.3,79.4,173.7,Fungal Wilt
-"dark spots, leaves wilting",Rice,34.3,59.6,150.4,Aphid Infestation
-"black mold on leaves, stems, and pods",Soybean,30.6,57,290.3,Thrips Damage
-"dark spots, leaves wilting",Corn,29.2,62.2,74.4,Thrips Damage
-"leaves curling, silvery-white appearance",Onion,20.9,50,7.4,Powdery Mildew
-"dark spots, leaves wilting",Corn,23.6,50.9,181.5,Damping Off
-"dark spots, leaves wilting",Onion,34.2,79.2,244.6,Fungal Wilt
-"black mold on leaves, stems, and pods",Wheat,34.1,61.8,231.3,Damping Off
-"yellow spots on leaves, leaf curling, stunted growth",Rice,17.8,89.3,29.2,Black Mold
-white powdery coating on leaves,Cotton,28.3,70.3,153.5,Bacterial Blight
-"dark spots, leaves wilting",Potato,33.7,89.3,38.9,Bacterial Blight
-"leaves with yellow patches, sticky substance on leaves",Soybean,23.2,65.6,131.3,Thrips Damage
-"dark spots, leaves wilting",Wheat,34.4,60.4,187,Root Rot
-"black mold on leaves, stems, and pods",Soybean,32.8,72.3,98.8,Root Rot
-"black mold on leaves, stems, and pods",Chickpea,31.2,78.1,99.5,Aphid Infestation
-"dark spots, leaves wilting",Soybean,33.1,76.8,50.1,Aphid Infestation
-"dark spots, leaves wilting",Lettuce,27.5,69.8,181.3,Brown Spot
-"browning of leaf edges, stem rotting",Lettuce,30.6,56.1,295.9,Thrips Damage
-"dark spots, leaves wilting",Onion,24.7,74.9,82,Powdery Mildew
-"yellowing of leaves, roots turning mushy",Rice,21.9,69.6,168.9,Powdery Mildew
-"browning of leaf edges, stem rotting",Corn,27.5,67.6,180.7,Powdery Mildew
-"yellowing of leaves, roots turning mushy",Onion,29.3,63.9,107.9,Leaf Spot
-white powdery coating on leaves,Lettuce,30.1,84.6,34.6,Root Rot
-"stems turning brown, leaf yellowing",Potato,17.3,69.8,224.1,Black Mold
-"dark spots, leaves wilting",Cotton,29.2,75.5,50.2,Damping Off
-"dark spots, leaves wilting",Onion,15.7,77.6,83.4,Black Mold
-"yellowing of leaves, roots turning mushy",Wheat,19.5,64,191.1,Fungal Wilt
-"yellowing of leaves, roots turning mushy",Wheat,17.9,60.7,282.4,Root Rot
-white powdery coating on leaves,Tomato,19.4,68,266.1,Fungal Wilt
-"black mold on leaves, stems, and pods",Potato,17.5,79.5,96.1,Root Rot
-"black mold on leaves, stems, and pods",Cotton,28.6,53.4,281.8,Brown Spot
-"leaves curling, silvery-white appearance",Onion,22.4,55.6,39.3,Brown Spot
-"leaves curling, silvery-white appearance",Cotton,22.3,85.2,182.7,Aphid Infestation
-white powdery coating on leaves,Soybean,30.6,52.6,245.6,Brown Spot
-"leaves with yellow patches, sticky substance on leaves",Corn,31.3,67.3,207.6,Black Mold
-"black mold on leaves, stems, and pods",Soybean,31.3,64.8,110.3,Fungal Wilt
-"brown lesions on leaves, dried foliage",Corn,23.5,83.3,170.9,Bacterial Blight
-"brown lesions on leaves, dried foliage",Wheat,18.8,60.1,151.5,Powdery Mildew
-"yellow spots on leaves, leaf curling, stunted growth",Onion,26.5,80.7,56.6,Leaf Spot
-"yellowing of leaves, roots turning mushy",Onion,30.7,88.7,68.6,Thrips Damage
-"black mold on leaves, stems, and pods",Cotton,33.3,79.4,259.3,Powdery Mildew
-"leaves with yellow patches, sticky substance on leaves",Tomato,18.8,74,141.1,Powdery Mildew
-"dark spots, leaves wilting",Tomato,23.3,60.5,202.5,Brown Spot
-"dark spots, leaves wilting",Lettuce,24.4,66.8,109.3,Brown Spot
-"black mold on leaves, stems, and pods",Rice,32.1,55.9,290.8,Black Mold
-"dark spots, leaves wilting",Corn,21.9,71.4,234.8,Damping Off
-white powdery coating on leaves,Onion,23.2,50.2,69.7,Aphid Infestation
-"yellow spots on leaves, leaf curling, stunted growth",Chickpea,32,59.1,206.7,Thrips Damage
-"stems turning brown, leaf yellowing",Wheat,19.6,52.1,226.9,Damping Off
-"dark spots, leaves wilting",Tomato,29,77.6,143.2,Leaf Spot
-"leaves with yellow patches, sticky substance on leaves",Cotton,31.2,65.4,33.3,Powdery Mildew
-"yellowing of leaves, roots turning mushy",Onion,20.8,89.2,58.1,Root Rot
-"leaves curling, silvery-white appearance",Tomato,26.9,89.5,74.5,Brown Spot
-"stems turning brown, leaf yellowing",Soybean,16.8,75.1,274.4,Thrips Damage
-"leaves with yellow patches, sticky substance on leaves",Onion,23.8,55.8,192.5,Root Rot
-"yellowing of leaves, roots turning mushy",Corn,34.8,81.6,91.7,Fungal Wilt
-"leaves curling, silvery-white appearance",Rice,29.2,73.5,149.8,Bacterial Blight
-"yellowing of leaves, roots turning mushy",Wheat,32.3,60.5,296.3,Thrips Damage
-white powdery coating on leaves,Rice,20.1,50.1,191.4,Brown Spot
-"dark spots, leaves wilting",Soybean,29.6,65.5,212.5,Aphid Infestation
-"yellow spots on leaves, leaf curling, stunted growth",Potato,15.8,78.5,289.2,Leaf Spot
-"yellow spots on leaves, leaf curling, stunted growth",Corn,19.3,72.4,156.7,Bacterial Blight
-"leaves curling, silvery-white appearance",Lettuce,24.5,83.7,46.9,Leaf Spot
-"stems turning brown, leaf yellowing",Cotton,18.3,78.8,216.5,Powdery Mildew
-"browning of leaf edges, stem rotting",Tomato,23.9,80.5,14.6,Thrips Damage
-"yellowing of leaves, roots turning mushy",Corn,17.1,55.3,175.8,Brown Spot
-"browning of leaf edges, stem rotting",Rice,30.1,88.5,23.7,Leaf Spot
-"yellowing of leaves, roots turning mushy",Cotton,31.4,71.7,265.4,Thrips Damage
-"yellowing of leaves, roots turning mushy",Corn,26.9,60.3,74.3,Black Mold
-"brown lesions on leaves, dried foliage",Chickpea,33.4,86.1,44.9,Damping Off
-"stems turning brown, leaf yellowing",Onion,30.4,61.4,147.8,Thrips Damage
-white powdery coating on leaves,Lettuce,32.4,72,102.6,Thrips Damage
-"dark spots, leaves wilting",Corn,18,69.8,130.3,Powdery Mildew
-"stems turning brown, leaf yellowing",Lettuce,16,76.2,29.6,Black Mold
-"stems turning brown, leaf yellowing",Lettuce,30.2,62.9,10.6,Fungal Wilt
-white powdery coating on leaves,Cotton,26.1,69.6,267.6,Damping Off
-"brown lesions on leaves, dried foliage",Onion,32.9,86.3,298.3,Brown Spot
-"stems turning brown, leaf yellowing",Tomato,16.5,79.9,159.4,Root Rot
-"brown lesions on leaves, dried foliage",Lettuce,25.5,50.5,195.7,Leaf Spot
-"brown lesions on leaves, dried foliage",Rice,21.7,65.2,283.2,Fungal Wilt
-"black mold on leaves, stems, and pods",Soybean,22.7,88.3,231.3,Brown Spot
-"yellowing of leaves, roots turning mushy",Cotton,29.2,73.2,268.8,Bacterial Blight
-"brown lesions on leaves, dried foliage",Onion,33.9,76.5,29.2,Leaf Spot
-"leaves curling, silvery-white appearance",Chickpea,25.1,77.6,41.6,Brown Spot
-"dark spots, leaves wilting",Rice,22.4,89.4,45.4,Brown Spot
-"leaves with yellow patches, sticky substance on leaves",Lettuce,17.4,52.6,134.7,Thrips Damage
-white powdery coating on leaves,Wheat,31.7,86.8,32.8,Brown Spot
-"browning of leaf edges, stem rotting",Lettuce,27.9,79.2,202.8,Aphid Infestation
-"leaves with yellow patches, sticky substance on leaves",Wheat,16,63.5,239.9,Bacterial Blight
-"stems turning brown, leaf yellowing",Tomato,24.6,72.3,223.4,Brown Spot
-"leaves with yellow patches, sticky substance on leaves",Potato,28.4,79.2,205.1,Root Rot
-"browning of leaf edges, stem rotting",Corn,22.2,63,68,Leaf Spot
-"black mold on leaves, stems, and pods",Soybean,30,78.7,207,Thrips Damage
-white powdery coating on leaves,Cotton,22,51.9,90.5,Thrips Damage
-"yellowing of leaves, roots turning mushy",Potato,32.7,79.8,39.4,Leaf Spot
-"yellow spots on leaves, leaf curling, stunted growth",Rice,23.2,86.3,189.8,Brown Spot
-"brown lesions on leaves, dried foliage",Potato,33.6,69.2,75.9,Black Mold
-"brown lesions on leaves, dried foliage",Rice,21.3,52.1,123.8,Fungal Wilt
-"brown lesions on leaves, dried foliage",Potato,23.3,78.6,111.4,Damping Off
+Temperature (°C),Rainfall (mm),Crop Symptoms,Crop Type,Crop Disease
+29.4,112.3,Yellowing leaves,Rice,Bacterial Leaf Blight
+30.7,198.6,Brown spots,Wheat,Leaf Rust
+33.1,123.4,Stunted growth,Maize,Maize Streak Virus
+21.4,156.8,Wilted stems,Cotton,Fusarium Wilt
+35,89.2,Leaf curling,Soybean,Soybean Mosaic Virus
+25.3,142.9,White powdery residue,Barley,Powdery Mildew
+27.6,104,Black spots,Potato,Early Blight
+26.8,210.2,Mosaic pattern,Tomato,Tomato Mosaic Virus
+24,77.6,Root rot,Sugarcane,Red Rot
+36.2,115.8,Blotchy leaves,Peanut,Leaf Spot
+28.1,190.5,Cracked fruits,Banana,Banana Bunchy Top Virus
+32.3,67.8,Fungal patches,Apple,Apple Scab
+22.9,149.3,Deformed seeds,Chili,Anthracnose
+30.2,202.1,Shedding leaves,Cabbage,Black Rot
+27,135.9,Sticky residues,Onion,Purple Blotch
+25.8,100.4,Rust-colored leaves,Carrot,Alternaria Leaf Blight
+31.4,129.8,Blackened stems,Pumpkin,Gummy Stem Blight
+23.5,160.1,Stem lesions,Peas,Ascochyta Blight
+28.9,87.4,Premature fruit drop,Mango,Mango Anthracnose
+30.5,190.2,Poor germination,Papaya,Papaya Ringspot Virus
+25.6,120.3,Mottled leaves,Grapes,Powdery Mildew
+32.4,200.5,Leaf curling,Orange,Citrus Canker
+28.3,180,White powdery residue,Tea,Blister Blight
+22.1,75.8,Drooping plants,Coffee,Coffee Rust
+30,150.9,Sunken lesions,Lettuce,Bottom Rot
+26.7,220.4,Silvery leaves,Spinach,Downy Mildew
+34.2,99.3,Discolored roots,Broccoli,Clubroot
+23.8,156.5,Thickened stems,Cauliflower,Black Rot
+31.9,112.6,Hollow stems,Brinjal,Verticillium Wilt
+21.3,201.4,Pale foliage,Garlic,Basal Rot
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
